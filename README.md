@@ -1,5 +1,7 @@
 # Coding Tank Homework - Python Basics
 
+![image](https://github.com/g3rley/coding-tank-day-one/assets/96620547/7d47019f-2b78-4d4c-90c3-df453d27604a)
+
 This repository contains the homework assignment for the Python Basics class in the Coding Tank program. The assignment focuses on the following topics:
 
 - Data types
